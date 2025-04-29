@@ -34,4 +34,6 @@ public interface StarPatterns {
 
 	 */
 	void RightTriangleStarPattern(int rows);
+
+    void checkPalindrome(String str);
 }
